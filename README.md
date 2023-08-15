@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vibhore.</h1>
+<h1 align="center">Hi 👋, I'm Vibhore</h1>
 <h3 align="left">I am a tech enthusiast, constantly seeking new challenges and fascinated by cutting-edge technology. My passion for computer science drives me to explore and experiment. I thrive on solving complex problems and staying ahead of the curve. Collaboration is key, as I actively contribute to innovative projects and engage with the tech community. My journey is marked by innovation, discovery, and a desire to shape a better tomorrow through technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
